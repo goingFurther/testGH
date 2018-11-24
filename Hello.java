@@ -3,4 +3,5 @@ public class Hello{
 	private int age;
 	private String password;
 	private String bbb;
+	private String address;
 }
