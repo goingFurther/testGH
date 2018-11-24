@@ -4,4 +4,5 @@ public class Hello{
 	private String password;
 	private String bbb;
 	private String address;
+	private String aaaa;
 }
